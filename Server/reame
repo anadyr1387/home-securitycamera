@@ -1,0 +1,3 @@
+press tx server will request image stream from controller
+server needs to be running on controller prior to starting transmission
+other buttons and drop-down menus have no functionality for now.
